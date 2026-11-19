@@ -3,10 +3,22 @@
 These two characters are **locked**. Every episode uses them unchanged.
 Hosts **alternate** by episode: in odd episodes Blu asks and Sunny explains; in even episodes they swap.
 
-> ⚠️ The source images are watermarked stock (Shutterstock ID 2742735535, Pngtree).
-> Do NOT upload the watermarked files to Flow (the watermark bleeds into video) and do not strip watermarks.
-> Either **license both** (recommended, ~1 download each) or generate clean originals with the
-> prompts below, then save the clean PNGs in Flow as the permanent "ingredients".
+## ✅ Clean, original reference files (USE THESE in Flow)
+Drawn from scratch as vector art (no stock, no watermark): `characters/`
+
+| File | Use as ingredient for |
+|---|---|
+| `blu_wave.png` | Blu intro / greeting shots (master reference) |
+| `blu_think.png` | Blu wondering / question shots |
+| `blu_explain.png` | Blu explaining / pointing shots |
+| `sunny_present.png` | Sunny explaining (master reference) |
+| `sunny_point.png` | Sunny pointing at visuals |
+| `sunny_wave.png` | Sunny intro / outro |
+| `*_transparent.png` | Same poses on transparent background (thumbnails, Canva, CapCut overlays) |
+| `character_sheet.png` | Overview of all six poses |
+
+Editable source: `*.svg`. Need a new pose? Edit `make.py`, run `python3 make.py <folder>` then `node render.js <folder>`.
+**Never** use the original watermarked stock images.
 
 ---
 
