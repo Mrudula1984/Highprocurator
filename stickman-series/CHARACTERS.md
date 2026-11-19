@@ -79,7 +79,7 @@ Editable source: `*.svg`. Need a new pose? Edit `make.py`, run `python3 make.py 
 | Character | Voice | voice_id | Why |
 |---|---|---|---|
 | **Blu** (curious asker) | Teddy Twinkle - Cute Cartoon Boy | `XjGYkUkzth8BPs29fmcV` | Sweet, playful little-kid voice that fits the crayon doodle |
-| **Sunny** (cheerful explainer) | Clever, enthusiastic young male (library name "Sheldon") | `uWNz6TbvrJHW6G4bBMPw` | Bright, quick and nerdy-excited, which suits the "smart friend" explainer |
+| **Sunny** (cheerful explainer) | ~~"Sheldon" `uWNz6TbvrJHW6G4bBMPw`~~, **disabled by its owner on 2026-11-19** | → replacement: **Aaron - Conversational American Male** `B6uUx2p7cRgxseOUyP6P` (pending final pick) | Youthful, bright, energetic explainer voice |
 
 Use these two voice_ids for every episode. EP01 VO lives in ElevenLabs flow "Stick-Man EP01 - Rainbow 7 Colors VO".
 Delivery tags used: `[curious]`, `[surprised]`, `[excited]`, `[warmly]`, `[mischievously]`, `[happy]`, `[long pause]` between lines.

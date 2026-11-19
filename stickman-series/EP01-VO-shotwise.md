@@ -4,7 +4,7 @@
 **Model:** Eleven v4 (supports the [tags] below; they're read as directions, not spoken)
 **Voices (locked):**
 - **Blu** = *Teddy Twinkle - Cute Cartoon Boy* (`XjGYkUkzth8BPs29fmcV`)
-- **Sunny** = the "Sheldon" library voice: *Quirky, Clever, Enthusiastic* (`uWNz6TbvrJHW6G4bBMPw`)
+- **Sunny** = *Aaron - Conversational American Male* (`B6uUx2p7cRgxseOUyP6P`). The original "Sheldon" voice was disabled by its owner.
 
 **File naming:** `EP01_S01_Blu.mp3`, `EP01_S02_Sunny.mp3` and so on, so CapCut sorts them in shot order.
 
