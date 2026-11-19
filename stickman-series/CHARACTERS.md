@@ -74,3 +74,12 @@ Editable source: `*.svg`. Need a new pose? Edit `make.py`, run `python3 make.py 
 3. Never describe new clothes or colors for them.
 4. Keep the two art styles distinct: Blu stays crayon, Sunny stays glossy. That contrast is the series' look.
 5. Voices come from ElevenLabs (one fixed voice per character), not Veo, so they sound the same in every episode.
+
+## 🔒 Locked voices (ElevenLabs, model `eleven_v4`)
+| Character | Voice | voice_id | Why |
+|---|---|---|---|
+| **Blu** (curious asker) | Teddy Twinkle - Cute Cartoon Boy | `XjGYkUkzth8BPs29fmcV` | Sweet, playful little-kid voice that fits the crayon doodle |
+| **Sunny** (cheerful explainer) | Clever, enthusiastic young male (library name "Sheldon") | `uWNz6TbvrJHW6G4bBMPw` | Bright, quick and nerdy-excited, which suits the "smart friend" explainer |
+
+Use these two voice_ids for every episode. EP01 VO lives in ElevenLabs flow "Stick-Man EP01 - Rainbow 7 Colors VO".
+Delivery tags used: `[curious]`, `[surprised]`, `[excited]`, `[warmly]`, `[mischievously]`, `[happy]`, `[long pause]` between lines.
